@@ -9,7 +9,10 @@ Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através
 
 ## 🛠️ Tools Utilized:
 
-- [ChatGPT](https://chat.openai.com/) 
-- [Lexica.art](https://lexica.art/)
-- [ElevenLabs](https://beta.elevenlabs.io/)
-- [Capcut](https://www.capcut.com/pt-br/)
+- Roteiro gerado via [ChatGPT](https://chat.openai.com/)
+- Audio gerado pela [ElevenLabs](https://beta.elevenlabs.io/)
+- Para gerar capas [Lexica.art](https://lexica.art/)
+- Tratar aúdio e adicionar sons de fundo [Capcut](https://www.capcut.com/pt-br/)
+
+<br>
+
