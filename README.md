@@ -16,3 +16,7 @@ Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através
 
 <br>
 
+<h2> Suggestions </h2>
+<p> Do you want to add or report an error? Please, feel free to do it! 😉 </p>
+
+
